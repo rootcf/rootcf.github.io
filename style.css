@@ -1,7 +1,9 @@
 :root{
 }
 body {
- background : url("assets/bg_47.gif");
- filter : grayscale(100%)
+  filter : grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  background-image : url("assets/bg_47.gif");
+  background-blend-mode: luminosity;
 }
 

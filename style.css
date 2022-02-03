@@ -5,3 +5,6 @@ body {
  background-color : black;
  background : url("assets/bg_47.gif")
 }
+body.background {
+ filter : grayscale(100%)
+}

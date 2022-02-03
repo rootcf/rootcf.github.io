@@ -15,7 +15,5 @@
   height:150vh;
   filter : grayscale(100%);
   -webkit-filter: grayscale(100%);
-  background-image : url("assets/bg_47.gif");
-  background-blend-mode: luminosity;
 }
 

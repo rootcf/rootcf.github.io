@@ -1,10 +1,7 @@
 :root{
- --mainbg : rgb(13,17,23);
 }
 body {
- background-color : black;
- background : url("assets/bg_47.gif")
-}
-body.background {
+ background : url("assets/bg_47.gif");
  filter : grayscale(100%)
 }
+

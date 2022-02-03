@@ -2,5 +2,6 @@
  --mainbg : rgb(13,17,23);
 }
 body {
- background-color : var(--mainbg)
+ background-color : var(--mainbg);
+ background : url("assets/bg_47.gif")
 }
